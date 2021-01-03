@@ -12,6 +12,7 @@ dotnet run
 ## Content
 
 - [Covariance and Contravariance](CovarianceAndContravariance/README.md)
+- [Dependency Injection on ConsoleApp](DependencyInjectionOnConsoleApp/README.md)
 
 
 ## Contributing
